@@ -1,0 +1,11 @@
+.styled{
+  background-color: black;
+  color: white;
+  
+}
+.glow{
+  background-color:white;
+  color:black;
+  
+  display: inline;
+}
